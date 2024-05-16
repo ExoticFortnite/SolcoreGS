@@ -18,7 +18,7 @@ class AActor : public UObject
 {
 public:
 	struct FTransform GetTransform();
-
+        // fuck this shit im sgfsdfgsdg
 	// class UWorld* GetWorld();
 	bool HasAuthority();
 	bool IsTearOff();
